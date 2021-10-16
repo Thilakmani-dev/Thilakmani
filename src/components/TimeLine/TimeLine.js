@@ -67,8 +67,9 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I am Thilak Mani, call me thilak, I am an web guy, who wants to learn,
-        share something who knows
+        I am Thilak Mani, call me thilak, I am a web guy (Actually I am a
+        spiderman fan (spidey uses to crawl information.., LOL)), who wants to
+        learn, share something who knows
         <br />
         Take a piece of Advice <br />
         Learning &lt; Learning || Earning &lt; Learning & Eearning

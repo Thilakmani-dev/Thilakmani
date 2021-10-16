@@ -3,7 +3,7 @@ export const projects = [
     title: 'Picco Cabs',
     description:
       'Using HTML, CSS, Bootstrap, SMTP.js used to book cabs, built for my client named piccocabs',
-    image: '/images/1.png',
+    image: '/images/1.jpg',
     tags: ['HTML', 'CSS', 'Bootstrap', 'Javascript'],
     source: 'piccocabs.in',
     visit: 'https://piccocabs.in',
@@ -13,7 +13,7 @@ export const projects = [
     title: 'E-Commerce',
     description:
       "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions.",
-    image: '/images/2.png',
+    image: '/images/2.jpg',
     tags: ['React', 'JavaScript', 'Firebase', 'Redux'],
     source: 'https://ecom-thilak-live.herokuapp.com/',
     visit: 'https://ecom-thilak-live.herokuapp.com/',
