@@ -17,8 +17,7 @@ const Hero = (props) => (
           Developer
         </SectionTitle>
         <SectionText>
-          I always wants to learn new & different concepts, share something he
-          learned
+          Connect with me, if you have any idea & stuck with your development
         </SectionText>
       </LeftSection>
     </Section>
