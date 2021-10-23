@@ -11,11 +11,13 @@ function Blog() {
   return (
     <Layout>
       <Section grid>
-        <h2>Blogs will be posted soon</h2>
+        <h2>Here you go!</h2>
         <GridContainer>
           <BlogCard>
-            <HeaderThree title='Post'>Async & Defer</HeaderThree>
-            <p>Posted At : October 19 2021</p>
+            <CardInfo className='card-info'>
+              <h4>Async & Defer in Javascript</h4>
+              <p>Posted At : October 19 2021</p>
+            </CardInfo>
             {/* <ExternalLinks href={'https://thilakmanib.hashnode.dev/async-and-defer-in-javascript'}>Read More</ExternalLinks> */}
           </BlogCard>
         </GridContainer>
