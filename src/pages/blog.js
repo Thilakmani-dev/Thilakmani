@@ -14,10 +14,8 @@ function Blog() {
         <h2>Here you go!</h2>
         <GridContainer>
           <BlogCard>
-            <CardInfo className='card-info'>
-              <h4>Async & Defer in Javascript</h4>
-              <p>Posted At : October 19 2021</p>
-            </CardInfo>
+            <HeaderThree title='Post'>Async & Defer in Javascript</HeaderThree>
+            <p>Posted At : October 19 2021</p>
             {/* <ExternalLinks href={'https://thilakmanib.hashnode.dev/async-and-defer-in-javascript'}>Read More</ExternalLinks> */}
           </BlogCard>
         </GridContainer>
